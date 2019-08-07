@@ -14,6 +14,6 @@ Go to File > Import from file and choose your CSV file.
 An import dialog box will appear, which lets you preview the memories that can and will be imported. Make your selections or corrections, if necessary, and then click OK.
 
 The memories stored in the CSV file should now be visible in your editor.
-make any modification needed for your radio here. The CSV file is generic and does not have all of the columns your radio may need. See below.
+make any modification needed for your radio here. The CSV file is generic and does not have all of the columns your radio may need. 
 
 If you have a clone-mode radio, upload the changes back to your device using Radio > Upload To Radio. If you are using a live-mode radio, wait until all of the changes finish synchronizing back to the device by watching the status bar in the lower right corner of the main window.
