@@ -2,8 +2,12 @@
 
 These are a collection for radio frequencies used to contact or make contact via satellites for the amatuer radio hobby
 
-Importing the CSV file into a radio  
+The image currently support the following Satellites: SO50, AO85, AO91, AO92, A092, AO95, IO86, CAS3H, DIW2, PO101, ISS
+ 
   
+Importing the CSV file into a radio  
+-----------------------------------  
+
 This method should be used when you want to import the entire contents (or some large portion) of the CSV file into the destination radio. Follow these steps:
 
 Open a .img file of your radio, or download one from it using Radio > Download From Radio. 
