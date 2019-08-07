@@ -7,7 +7,7 @@ Importing the CSV file into a radio
 This method should be used when you want to import the entire contents (or some large portion) of the CSV file into the destination radio. Follow these steps:
 
 Open a .img file of your radio, or download one from it using Radio > Download From Radio. 
-Make sure that the tab at the top says something like "Baufeng UV-5R" or "Icom IC-880" to indicate that you're operating on a radio-specific driver.
+Make sure that the tab at the top says something like "Baofeng UV-5R" or "Icom IC-880" to indicate that you're operating on a radio-specific driver.
 
 Go to File > Import from file and choose your CSV file.
 
